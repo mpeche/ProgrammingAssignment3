@@ -14,11 +14,11 @@ The linear acceleration (recorded by the accelerometer), as well as the angular 
 
 
 ####Columns
-  * __total__		The signal recorded by the accelerometer, along each of the Cartesian Axis. These values are measured in gravitational-units, or 9.8 meters/second-squared, and represented as a vector with 128 values.
+  * __total__		The signal recorded by the accelerometer, along each of the Cartesian Axis. These values are measured in gravitational-units, or 9.8 meters/second-squared. The Mean and Standard Deviation of of the entire event along the given axis have been stored in the database.
   
-  * __acc__			The body's acceleration. These values are measured in gravitational-units, and represented as a vector with 128 values.
+  * __acc__			The body's acceleration. These values are measured in gravitational-units.  The Mean and Standard Deviation of of the entire event along the given axis have been stored in the database.
   
-  * __gyro__		The signal recorded by the gyroscope, along each of the Cartesian Axis. These values are measured in radiant/second, and represented as a vector with 128 values.
+  * __gyro__		The signal recorded by the gyroscope, along each of the Cartesian Axis. These values are measured in radiant/second. The Mean and Standard Deviation of of the entire event along the given axis have been stored in the database.
 
   
 ####Activities
