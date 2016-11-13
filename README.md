@@ -27,6 +27,14 @@ The activities that the volunteers performed while being recorded was:
   * STANDING
   * LAYING
 
+--- 
+##Files in this repository
+
+This repository contians the following files:
+  * README.md			This file, which gives an overview of the data, the files in the repository, the process by which the data was processed, and finally legal details.
+  * Codebook.md			The codebook contains an overview of the data after it had been processed.
+  * run_analysis.r		R script that contains the code by which the original data have been processed.
+  * Assignment_3.txt	The tidy data set after processing.
   
 --- 
 ##Processing the Data
